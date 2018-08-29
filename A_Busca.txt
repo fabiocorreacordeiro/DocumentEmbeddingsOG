@@ -1,0 +1,1311 @@
+INTRODUCÃO
+Os eventos a seguir aconteceram ao mesmo tempo, cada um em uma parte do
+globo. Ambos abalaram o mundo.
+No dia 11 de março de 2011, às 14h46, hora do Japão, a cerca de 26km abaixo do
+leito do mar, a pressão entre duas placas tectônicas gerou uma violenta e maciça
+força ascendente que criou um dos mais intensos terremotos de que se tem notícia.
+Além de danos incalculáveis às construções e à infraestrutura na região norte
+de Tóquio, o terremoto também interrompeu o abastecimento de energia elétrica,
+inclusive no complexo nuclear de Fukushima Daiichi. Cinquenta e cinco minutos
+depois, um enorme tsunami desencadeado pelo terremoto varreu a costa, matando
+milhares de pessoas. No complexo de Fukushima Daiichi, localizado às margens do
+oceano, o enorme tsunami rompeu o quebra-mar e inundou a usina, afetando o gerador
+de apoio movido a diesel e privando os reatores nucleares da água de resfriamento
+necessária para mantê-los sob controle. Nos dias que se seguiram, explosões
+danifi caram as instalações, e houve liberação de radiação e intenso derretimento de
+varetas de combustível nuclear.
+O resultado foi o pior acidente nuclear desde a explosão na usina de Chernobyl,
+na Ucrânia soviética, 25 anos antes. O acidente de Fukushima, somado aos danos
+em outras usinas de geração elétrica na região, provocou a interrupção do abaste-
+10  A BUSCA
+cimento, forçando apagões em cadeia que demonstraram a vulnerabilidade da sociedade
+moderna à falta repentina de energia. Os efeitos não se limitaram a apenas
+um país. A perda de produção industrial no Japão afetou as redes de abastecimento
+globais, paralisando a fabricação de automóveis e eletrônicos na América do Norte
+e na Europa e abalando a economia global. O acidente de Fukushima impôs um
+grande ponto de interrogação ao renascimento nuclear global, que muitos consideravam
+essencial para ajudar a suprir as necessidades energéticas da economia
+mundial em expansão.
+Do outro lado do mundo, desenvolvia-se uma crise de natureza bastante diferente.
+Ela havia sido iniciada alguns meses antes, não em decorrência de um choque de
+placas tectônicas, mas defl agrada por um jovem vendedor de frutas na cidade tunisiana
+de Sidi Bouzid. Frustrado com as abordagens constantes dos policiais da cidade e
+com a indiferença das autoridades municipais, o jovem se encharcou de tíner e ateou
+fogo ao próprio corpo como protesto, em frente à prefeitura da cidade. A história do
+rapaz e o que se seguiu foram transmitidos por celular, pela internet e por satélite à
+Tunísia, ao restante do Norte da África e ao Oriente Médio. Assolado por protestos
+cada vez mais intensos, o regime de Ben Ali caiu. Logo em seguida, depois que
+manifestantes ocuparam a praça Tahrir, no Cairo, o governo egípcio também caiu.
+Atos contra governos autoritários espalharam-se pela região. Na Líbia, os protestos
+transformaram-se em guerra civil, exigindo a intervenção da Otan.
+O preço do petróleo no mercado global disparou em resposta não apenas à perda
+das exportações de petróleo da Líbia, mas também ao estilhaçamento do equilíbrio geoestratégico
+que sustentou o Oriente Médio por décadas. Cresceu a preocupação quanto
+às possíveis implicações de tais levantes para o golfo Pérsico, que fornece 40% do petróleo
+vendido nos mercados internacionais, e para seus clientes no mundo inteiro.
+Esses dois conjuntos de eventos, muito diferentes, porém simultâneos, ocorridos
+a oceanos de distância, deixaram os mercados globais em choque. A incerteza e a
+insegurança renovadas a respeito da energia, associadas à previsão de uma crise ainda
+mais profunda, enfatizaram uma realidade fundamental  a importância da energia
+para o mundo.
+Este livro tenta explicar essa importância. É a história da busca pela energia da
+qual tanto dependemos, da posição e dos benefícios por ela gerados e da segurança
+por ela proporcionada. Trata do desenvolvimento do mundo moderno da energia,
+das implicações e mudanças geradas pelas preocupações com o clima e as emissões
+de carbono e das diferenças que a questão energética pode apresentar no futuro.
+INTRODUÇÃO  11
+Três perguntas fundamentais norteiam esta narrativa: Haverá energia sufi ciente
+para suprir as necessidades de um mundo em crescimento, a que custo e com quais
+tecnologias? Como garantir a segurança do sistema energético do qual o mundo
+mostra-se tão dependente? Qual será o impacto dos interesses em proteção ambiental,
+inclusive mudança climática, sobre o futuro da energia  e como o desenvolvimento
+das fontes energéticas afetará o meio ambiente?
+Em relação à primeira pergunta, há bastante tempo o medo de fi car sem energia
+afl ige o mundo. Um dos maiores cientistas do século XIX, William Th omson
+ mais conhecido como Lord Kelvin  advertiu, em 1881, em seu discurso de
+posse na Associação Britânica para o Avanço da Ciência, em Edimburgo, que a base
+energética da Inglaterra era precária e o desastre, iminente. Seus temores não diziam
+respeito ao petróleo, e sim ao carvão, que havia gerado a Era do Vapor, estimulada
+pelo domínio industrial britânico, e que tornou as palavras Rule, Britannia. uma
+realidade em termos de potência mundial. Kelvin advertiu sombriamente que os
+dias de glória poderiam estar contados, pois os depósitos subterrâneos de carvão
+do mundo estavam se esgotando, com toda a certeza, e em ritmo acelerado, e que
+chegaria um dia em que restaria muito pouco. A única esperança que ele poderia
+oferecer era que os moinhos de vento ou algum tipo de motores a vento voltassem
+a predominar.
+Porém, nos anos que se seguiram à advertência de Kelvin, a base de recursos de
+todos os hidrocarbonetos  carvão, petróleo e gás natural  continuou se expandindo
+enormemente.
+Passados 75 anos do discurso de Kelvin, o fi m da Era dos Combustíveis Fósseis
+foi previsto por outro personagem formidável, o almirante Hyman Rickover, pai da
+marinha nuclear e, mais do que qualquer um, pai da indústria da energia nuclear,
+considerado pelo presidente americano Jimmy Carter o maior engenheiro de todos
+os tempos.
+Hoje, carvão, petróleo e gás natural fornecem 93% da energia mundial, declarou
+Rickover em 1957. Segundo ele, era uma inversão surpreendente da situação
+vigente apenas um século antes, em 1850, quando os combustíveis fósseis forneciam
+5% de toda a energia do mundo, e os homens e animais forneciam 94%. Foi a
+utilização da energia que permitiu um padrão de vida muito mais elevado do que se
+tinha em meados do século XIX. Entretanto, o argumento central de Rickover era
+que os combustíveis fósseis se esgotariam em algum momento depois de 2000 
+muito provavelmente, antes de 2050.
+12  A BUSCA
+Será que podemos ter certeza de que, quando os combustíveis fósseis de recuperação
+economicamente viável tiverem acabado, a ciência terá descoberto meios de
+manter um padrão de vida alto com fontes de energia renováveis?, perguntou o almirante.
+Ele tinha suas dúvidas. Não acreditava que as energias renováveis  eólica,
+solar, biomassa  pudessem um dia ser responsáveis por mais de 15% da energia total.
+A energia nuclear, embora ainda experimental, poderia muito bem substituir o carvão
+nas usinas de energia. Entretanto, disse Rickover, automóveis movidos a energia atômica
+estavam fora de cogitação. O mais sensato é reconhecer a possibilidade do eventual
+desaparecimento dos automóveis, afi rmou. E colocou tudo isso em um contexto
+estratégico: O alto consumo de energia sempre foi um pré-requisito para o poder político.
+Ele temia os perigos que possíveis mudanças nesse quadro poderiam acarretar.
+Os recursos que nos foram concedidos pelo planeta defi nitivamente não são
+tão escassos quanto acreditava Rickover. Hoje, a produção de petróleo é cinco
+vezes maior do que em 1957. Além disso, as energias renováveis formaram um
+alicerce muito mais seguro do que o almirante imaginou. Entretanto, ainda vivemos
+no que Rickover chamou de Era dos Combustíveis Fósseis. Hoje, petróleo,
+carvão e gás natural fornecem mais de 80% da energia mundial. Os suprimentos
+podem ser muito mais abundantes do que se imaginava, mas, devido à simples
+aritmética da escala, o desafi o de assegurar a disponibilidade de energia no futuro
+é muito maior atualmente do que na época de Kelvin, ou mesmo na de Rickover.
+Será que os recursos serão sufi cientes não apenas para abastecer a economia global
+atual, de US$ 65 trilhões, mas também para abastecer o que poderia ser uma
+economia de US$ 130 trilhões daqui a apenas duas décadas? Em outras palavras,
+será que os recursos petrolíferos serão sufi cientes para a transição de um mundo de
+quase um bilhão de automóveis hoje para um mundo com mais de dois bilhões?
+O próprio fato de fazermos essa pergunta refl ete algo novo  a globalização
+da demanda de energia. Bilhões de pessoas estão ingressando na economia global;
+deste modo, sua renda e uso de energia aumentam. Atualmente, o uso do petróleo
+nos países desenvolvidos chega, em média, a catorze barris por pessoa ao ano. Nos
+países em desenvolvimento, são apenas três barris por pessoa. Como o mundo vai
+lidar com essa questão quando bilhões de pessoas deixarem de consumir três barris
+per capita e passarem a consumir seis?
+O segundo tema deste livro, segurança energética, origina-se do risco e da vulnerabilidade:
+a ameaça de interrupção e a crise. Desde a Segunda Guerra Mundial, diversas
+crises afetaram a oferta de energia, em geral de forma inesperada.
+INTRODUÇÃO  13
+De onde virá a próxima crise? Poderia surgir do que se conhece como o mau mundo
+novo da cibervulnerabilidade. Os complexos sistemas de geração e distribuição de
+energia estão entre os elementos mais críticos de toda a infraestrutura crítica, o que
+torna seus controles digitais alvos tentadores para ataques cibernéticos. A interrupção
+dos sistemas de energia elétrica poderia fazer mais do que causar apagões; poderia imobilizar
+a sociedade. No que concerne à segurança do abastecimento de energia, a análise
+sempre parece voltar à região do golfo Pérsico, responsável por 60% das reservas convencionais
+de petróleo. O programa nuclear iraniano poderia abalar o equilíbrio de
+poder naquela região. Redes terroristas tiveram como alvo sua vasta infraestrutura energética
+na tentativa de derrubar os governos existentes e elevar o preço do petróleo para
+levar o mundo ocidental à bancarrota. A região também enfrenta revoltas decorrentes
+da insatisfação de um enorme grupo de jovens carentes de oportunidades de emprego e
+educação, cujas expectativas estão longe de ser realizadas.
+Existem inúmeros outros tipos de riscos e perigos. É essencial prevê-los, preparar-
+se e garantir a resiliência para reagir  a fi m de não ter que concluir após o fato,
+como nas duras palavras de um relatório do governo japonês sobre o desastre de
+Fukushima Daiichi, que a preparação consistente foi insufi ciente.
+No que tange ao meio ambiente, nosso terceiro tema, ocorreram enormes avanços
+nas tentativas de abordar as preocupações tradicionais com poluição. Entretanto,
+quando nas décadas anteriores as pessoas se concentravam nos poluentes gerados
+pelos tubos de escape, pensavam em poluição urbana, não em CO2 e no aquecimento
+global. A consciência ambiental aumentou enormemente desde o primeiro Dia
+da Terra, em 1970. No século atual, a mudança climática virou uma questão política
+dominante, essencial para o futuro da energia. Essa mudança tornou os gases de efeito
+estufa um poderoso argumento para reduzir a supremacia dos hidrocarbonetos e
+expandir o papel das energias renováveis.
+Entretanto, a maior parte das previsões mostra que grande parte do que serão
+as grandes necessidades energéticas daqui a duas décadas  de 75% a 80%  pode
+ser suprida exatamente como hoje, com petróleo, gás e carvão, embora usados com
+maior efi ciência. Ou será que o mundo mudará, aproximando-se do que Lord Kelvin
+acreditava ser necessário e o almirante Rickover duvidava ser possível: uma nova
+era de energia, um mix radicalmente diferente que utiliza muito mais energias renováveis
+e alternativas  eólica, solar e biocombustíveis, entre outras ; talvez até
+mesmo de fontes ainda não identifi cadas? Que tipo de mix energético suprirá as
+necessidades de energia mundiais sem crise e confronto?
+14  A BUSCA
+Quaisquer que sejam as respostas, a inovação será de suma importância. Talvez
+não surpreenda o fato de que a ênfase na inovação em todo o espectro energético é
+hoje maior do que nunca. Isso aumenta a probabilidade de vermos serem aplicados
+à energia, com sucesso, os benefícios que o general Georges Doriot, fundador do
+moderno investimento em capital de risco, chamou de ciência aplicada.
+Os prazos podem ser longos devido à escala e à complexidade do vasto sistema
+de abastecimento de energia, mas, se esta é para ser uma era de transição energética,
+então o mercado global de energia de US$ 6 trilhões deve ser contestável. Ou seja,
+deve estar disponível aos concorrentes tradicionais  empresas de petróleo, gás e
+carvão, que fornecem a maior parte da energia hoje  e aos novatos  empresas
+de energia eólica, solar e de biocombustíveis , que desejam conseguir uma fatia
+cada vez maior desse bolo. Uma transição dessa escala, se de fato ocorrer, tem grande
+signifi cado para as emissões de carbono, a economia como um todo, a geopolítica e
+a posição das nações.
+A Parte Um deste livro descreve o mundo novo e mais complexo do petróleo que
+surgiu nas décadas após a Guerra do Golfo. O drama básico do petróleo  a luta
+pelo acesso, a batalha pelo controle, a geopolítica que molda tudo isso  continuará
+sendo um fator decisivo para nosso mundo em mudança. A China, que há duas décadas
+não fi gurava na equação global da energia, desempenha um papel fundamental
+nesse novo mundo. Isso é verdade não apenas por ela ser a ofi cina do mundo
+em termos da indústria manufatureira, mas também devido ao maciço processo de
+construção nacional que está acomodando os vinte milhões de pessoas que migram
+anualmente das regiões rurais para as cidades.
+A Parte Dois gira em torno da segurança energética e do futuro da oferta de
+energia. Será que o petróleo do mundo vai acabar? Senão, de onde ele virá? Entre
+as novas fontes estará o gás natural, com sua crescente importância para a economia
+global. A rápida expansão do gás natural liquefeito (GNL) está criando outro
+mercado global de energia. O gás de xisto (shale gas), a maior inovação em energia
+desde o início do século XXI, tornou uma escassez iminente nos Estados Unidos no
+que pode vir a ser abastecimento sufi ciente para cem anos e pode fazer o mesmo em
+outras partes do mundo. O gás de xisto está alterando de modo drástico as posições
+competitivas em diversas áreas, da energia nuclear à energia eólica. Além disso, alimentou,
+em um período notavelmente curto, um novo debate ambiental.
+INTRODUÇÃO  15
+A Parte Três trata da era da eletricidade. Desde que Th omas Edison colocou em
+operação, em Manhattan, a primeira usina elétrica dos Estados Unidos, o mundo
+tornou-se cada vez mais movido a eletricidade. Nos países desenvolvidos, a eletricidade
+é dada como certa; sem ela, o mundo não funciona. Nos países em desenvolvimento,
+sua escassez afeta a vida das pessoas e o crescimento econômico.
+Hoje, novos dispositivos e aparelhos que não existiam há três décadas  de
+computadores pessoais e aparelhos de DVD a smartphones e tablets  exigem o
+aumento da oferta de eletricidade (o que poderíamos chamar de gadgiwatts). Suprir
+as necessidades futuras de energia elétrica signifi ca tomar decisões desafi adoras, e às
+vezes sofridas, quanto à escolha do combustível que será necessário para manter as
+luzes acesas e permitir que a energia seja transmitida.
+A Parte Quatro narra a história, pouco conhecida, da transformação da mudança
+climática  assunto que antes interessava apenas a um punhado de cientistas
+ em uma das questões dominantes relacionadas ao futuro. O estudo da
+mudança climática começou por mera curiosidade nos Alpes, nos idos de 1770.
+No século XIX, alguns cientistas começaram a pensar sistematicamente no clima,
+mas não porque estivessem preocupados com o aquecimento global. Ao contrário,
+temiam a ocorrência de uma nova era glacial. Somente no fi nal da década de
+1950 e início da de 1960 alguns pesquisadores começaram a medir a elevação
+dos níveis de carbono na atmosfera e avaliar sua possível relação com o aumento
+das temperaturas. O risco, concluíram, não era de resfriamento global, e sim de
+aquecimento. Porém, foi só no século XXI que a questão da mudança climática
+começou a ter efeitos mais impactantes nas decisões de líderes políticos, CEOs
+e investidores  chegando até a ser matéria de votação na Suprema Corte dos
+Estados Unidos.
+A Parte Cinco descreve as novas energias  o renascimento das energias renováveis
+ e a evolução da tecnologia. A história do setor de energias renováveis
+é marcada por inovações, empreendedorismo, batalhas políticas, controvérsias, decepção
+e desespero, recuperação e sorte. O setor apresentou um crescimento enorme,
+mas está chegando a hora em que será preciso demonstrar se as energias renováveis
+poderão, de fato, ser comercializadas em grande escala.
+Há uma fonte de energia fundamental que as pessoas em geral desconsideram.
+Às vezes, é conhecida como conservação; outras, como efi ciência. Trata-se de algo
+difícil de conceituar e de mobilizar; ainda assim, pode dar a maior contribuição de
+todas para o equilíbrio energético num futuro próximo.
+16  A BUSCA
+Todos os temas convergem para a questão do transporte, especifi camente do automóvel.
+Parecia bastante claro que a corrida pelos automóveis para o mercado de
+massas estava decidida há exatamente um século, com a vitória esmagadora do motor
+de combustão interna. Entretanto, a volta do carro elétrico  nesse caso, abastecido
+não apenas por sua bateria, mas também por políticas governamentais  está
+reiniciando essa corrida. Será que a eletrifi cação completa vencerá desta vez? Se o
+carro elétrico comprovar, de fato, sua competitividade, ou pelo menos sua competitividade
+em determinadas circunstâncias, o resultado remodelará o mundo da energia.
+O carro elétrico, porém, não é o único concorrente. Há uma corrida também
+pelo desenvolvimento de biocombustíveis  ou seja, plantar petróleo em vez de
+perfurar poços. Tudo isso nos leva a uma pergunta crucial: será que o carro elétrico
+ou os biocombustíveis derrubarão o petróleo de seu trono no reino dos transportes?
+Podemos ter certeza de que, nos anos vindouros, surgirão novas surpresas que
+abalarão o consenso atual, mudarão as perspectivas, redirecionarão tanto as políticas
+quanto os investimentos e afetarão as relações internacionais. Essas surpresas podem
+ser choques de um tipo ou de outro  de levantes políticos a guerras, terrorismo
+ou mudanças abruptas na economia. Ou podem resultar de acidentes ou da fúria
+da natureza. Ou, ainda, consequências de revoluções tecnológicas imprevistas que
+gerarão novas oportunidades.
+De uma coisa, porém, podemos ter certeza: nos anos vindouros, o apetite mundial
+por energia aumentará bastante. Os números absolutos são assombrosos. Qualquer
+que seja o mix que está por vir, a energia e seus desafi os serão decisivos para o
+nosso futuro.
+PRÓLOGO
+Por vários dias, tropas e tanques iraquianos vinham se concentrando, ameaçadores,
+na fronteira do país com o Kuwait. Entretanto, Saddam Hussein, ditador
+do Iraque, garantiu a diversos líderes do Oriente Médio que não havia motivo
+para preocupação  suas intenções eram pacífi cas e tudo se resolveria. Não vai
+acontecer nada, disse ao rei da Jordânia. Hussein relatou ao presidente do Egito que
+não tinha intenção de invadir o Kuwait. Diante da embaixadora dos Estados Unidos,
+convocada em cima da hora, acusou o Kuwait, juntamente aos Emirados Árabes Unidos,
+de ter iniciado uma guerra econômica contra o Iraque. Os dois países estavam
+produzindo uma grande quantidade de petróleo e, como consequência, abaixando o
+preço do barril, afi rmou Saddam  os resultados para o país eram intoleráveis, acrescentou,
+e o Iraque teria que reagir. A embaixadora americana, citando a movimentação
+das tropas iraquianas, fez uma pergunta simples: Quais são as suas intenções?
+Hussein respondeu que estava em busca de uma solução diplomática para o impasse.
+A embaixadora respondeu que os Estados Unidos nunca perdoariam a resolução de
+confl itos por meios que não fossem pacífi cos. No fi nal da reunião, Saddam disse à
+embaixadora que ela poderia sair de férias e que não se preocupasse.1
+Porém, uma semana depois, nas primeiras horas da manhã de 2 de agosto de 1990,
+as forças iraquianas ultrapassaram a fronteira com o Kuwait e assumiram, com brutalidade,
+o controle do país. O resultado foi a primeira crise do mundo pós-Guerra
+Fria. Inaugurou também uma nova era para o abastecimento mundial de petróleo.
+18  A BUSCA
+O Iraque apresentou várias justifi cativas para a invasão. Quaisquer que tenham
+sido as explicações, o objetivo estava claro: Saddam Hussein pretendia anexar o
+Kuwait e varrer o país do mapa. Assim, o Iraque rivalizaria com a Arábia Saudita
+como potência petrolífera, com impactos de longo alcance para o restante do mundo.
+NÃO TÃO RÁPIDO
+Na manhã do dia 2 de agosto, horário de Washington, o presidente George H.W.
+Bush reuniu-se com seu Conselho de Segurança Nacional na Sala do Gabinete, na
+Casa Branca. O clima era lúgubre. A paz e a estabilidade desejadas pelo mundo
+inteiro foram ameaçadas de forma repentina e inesperada. Apenas oito meses antes,
+o mundo testemunhara a queda do Muro de Berlim, sinalizando o fi m da Guerra
+Fria. Os países mais importantes ainda tinham muito com que se ocupar tentando
+resolver de forma pacífi ca o confronto que durara quatro décadas e meia.
+Com a anexação do Kuwait, o Iraque estaria em posição de afi rmar seu domínio
+no golfo Pérsico, que na época detinha dois terços das reservas de petróleo do
+mundo. Saddam já possuía o quarto maior exército do planeta em número de soldados.
+Agora o país seria também uma superpotência petrolífera. O ditador usaria
+a receita proveniente das reservas de petróleo para adquirir um arsenal formidável,
+incluindo armas químicas e nucleares; com essa nova força, o Iraque poderia projetar
+sua infl uência e poder muito além do golfo Pérsico. Em suma, com a invasão
+e anexação do Kuwait, o Iraque poderia reescrever os cálculos da política mundial.
+Permitir que isso acontecesse equivaleria a lançar por terra quatro décadas de política
+americana, remontando ao presidente Harry Truman, destinada a manter a
+segurança da região.
+A discussão na Casa Branca no dia 2 de agosto, talvez como refl exo do choque
+inicial, não tinha foco nem forma. Grande parte da polêmica parecia envolver várias
+modalidades de sanções econômicas, quase como uma maneira de ajuste a uma nova
+realidade. Ou pelo menos foi o que pareceu aos olhos de algumas pessoas que estavam
+na sala, inclusive o próprio Bush, que fi cou horrorizado, em suas próprias palavras,
+com a enorme divergência entre os que enxergavam o que estava acontecendo como
+a maior crise do nosso tempo e os que tratavam a situação como a crise do dia.
+ Vamos ter que nos acostumar a um mundo sem o Kuwait  disse um conselheiro,
+reconhecendo o que parecia ser um fato consumado.
+PRÓLOGO  19
+Bush levantou a mão.
+ Não tão rápido  respondeu.2
+TEMPESTADE NO DESERTO
+Daí em diante, desdobrou-se um extraordinário empreendimento para a formação
+de uma coalizão  aproximadamente 36 países aderiram sob a forma de tropas
+ou de contribuição monetária, sob os auspícios das Nações Unidas. A coalizão incluía
+a Arábia Saudita, cujo maior campo de petróleo localizava-se a pouco mais
+de 400km da fronteira com o Kuwait e cujo governante, o rei Fahd, disse a Bush
+que Saddam era presunçoso e louco e estava seguindo o caminho de Hitler ao
+criar problemas para o mundo. Incluía também a União Soviética, cujo presidente,
+Mikhail Gorbachev, disse algo que teria sido inconcebível poucos anos antes 
+que a União Soviética estaria lado a lado com os Estados Unidos na crise.3
+Nos seis meses que se seguiram, formou-se, metódica e uniformemente, uma força
+de coalizão no norte da Arábia Saudita, chegando a contar com quase um milhão
+de soldados. Nas primeiras horas do dia 17 de janeiro, antes de raiar o dia, iniciou-se
+a primeira fase da Operação Tempestade no Deserto, com o bombardeio aéreo de
+alvos militares iraquianos. No dia 23 de janeiro, os iraquianos abriram as válvulas da
+plataforma de petróleo de Sea Island, no Kuwait, liberando seis milhões de barris de
+petróleo no golfo Pérsico, o maior derramamento de petróleo da história, na tentativa
+de deter uma possível ofensiva dos Fuzileiros Navais americanos. Um mês depois,
+no dia 23 de fevereiro, as forças de coalizão libertaram a Cidade do Kuwait. No dia
+seguinte, a ofensiva invadiu o norte do Iraque pela Arábia Saudita, derrotando o
+exército iraquiano. A invasão por mar acabou revelando-se um ataque simulado. A
+guerra por terra, em si, não levou mais de cem horas e terminou com a retirada total
+das forças iraquianas.
+Já que não poderia ter o Kuwait, Saddam Hussein tentaria destruí-lo. Os soldados
+iraquianos deixaram o pequeno território em chamas. Atearam fogo em oitocentos
+poços de petróleo; a temperatura chegou a mais de 1.500°C, criando uma mistura
+diabólica de fogo, escuridão e fumaça e causando enormes danos ambientais. As
+chamas consumiram até seis milhões de barris de petróleo por dia  muito além da
+produção diária normal do Kuwait e consideravelmente mais do que as importações
+diárias de petróleo pelo Japão. Esse cenário infernal era muito maior do que qualquer
+20  A BUSCA
+coisa que as mais experientes empresas especializadas em combate a incêndios em
+poços de petróleo já haviam visto, e inúmeras novas técnicas tiveram que ser desenvolvidas.
+O último incêndio só foi apagado em novembro de 1991.
+Após esse período, Saddam foi encurralado; seria apenas uma questão de tempo
+até que o ditador iraquiano, enfraquecido e humilhado, fosse deposto por seus adversários
+internos.
+UMA NOVA ERA DE GLOBALIZAÇÃO
+O resultado da Primeira Guerra do Golfo foi um marco para o que se esperava ser
+uma era mais pacífi ca  que, por um tempo, foi chamada de nova ordem mundial.
+A União Soviética deixara de ser adversária do Ocidente. E, no fi nal de 1991, ela
+desintegrou-se por completo. Falava-se, então, de um novo mundo unipolar no
+qual os Estados Unidos seriam não apenas a nação indispensável, mas também a
+única superpotência mundial.
+Seguiu-se uma nova era de globalização: as economias tornaram-se mais integradas,
+e os países, mais interconectados. Privatização e desregulamentação, práticas
+que haviam começado na década de 1970 e adquirido ímpeto na de 1980, tornaram-
+-se as palavras de ordem no mundo inteiro. Os governos estavam progressivamente
+abrindo mão do controle de setores estratégicos das economias de seus países. As
+nações passaram a ter cada vez mais confi ança nos mercados, na iniciativa privada e
+nos fl uxos globais de capital.
+Em 1991, a Índia iniciou a primeira fase de reformas que iriam liberalizar sua
+economia e acabariam por torná-la um país de alto crescimento e uma parte cada vez
+mais importante da economia global.
+Nos setores de energia dos países, como em tantos outros setores, instituições
+governamentais tradicionais foram transformadas em empresas estatais, que por
+sua vez foram parcial ou inteiramente privatizadas. Hoje, muitas dessas instituições
+transformadas em empresas preocupam-se tanto com a opinião dos fundos de pensão
+e outros acionistas quanto com os planos de carreira dos funcionários públicos.
+Barreiras internacionais de todos os tipos caíram. Com o fi m da Cortina de Ferro,
+eliminou-se a divisão entre Europa Ocidental e Leste Europeu. A Comunidade
+Europeia transformou-se em União Europeia, muito mais integrada, e estabeleceu o
+euro como moeda. Uma série de iniciativas de porte  em especial, o Tratado de Li-
+PRÓLOGO  21
+vre Comércio da América do Norte (Naft a, na sigla em inglês)  promoveu o livre
+comércio. De modo geral, o comércio global cresceu mais rápido do que a economia
+mundial em si. Os países em desenvolvimento transformaram-se em mercados
+emergentes, tornando-se os países de maior crescimento. O aumento da renda nesses
+lugares traduziu-se em aumento da demanda por petróleo.
+A tecnologia também estimulou a globalização  em particular, o rápido desenvolvimento
+da tecnologia da informação, a ascensão da internet e a drástica queda
+nos custos das comunicações internacionais. Isso mudou o modo de operação das
+empresas e conectou as pessoas de maneira inconcebível apenas uma década atrás.
+A aldeia global, um conceito especulativo na década de 1960, tornava-se rapidamente
+realidade. O setor de petróleo e gás foi pego no meio dessas revoluções. A mudança
+geopolítica e a maior confi ança nos mercados abriram novas áreas ao investimento e
+à exploração. A indústria expandiu sua capacidade de encontrar e produzir recursos
+em ambientes mais desafi adores. Parecia agora que uma era de petróleo e gás natural
+baratos se estenderia por muito mais tempo no futuro. Era uma boa notícia pelo lado
+da oferta de energia, mas não tão boa assim para as energias alternativas, mais caras.
+O FIM DAS ENERGIAS RENOVÁVEIS?
+As crises de energia da década de 1970 combinaram-se à maior consciência ambiental
+para dar origem a uma série de novas opções energéticas, conhecidas primeiro
+como energias alternativas e, mais tarde, como energias renováveis. O termo
+abrange uma ampla gama de energias  eólica, solar, biomassa, geotérmica etc.
+O que lhes conferia um traço comum era o fato de não serem baseadas em combustíveis
+fósseis nem em energia nuclear.
+Elas surgiram da agitação da década de 1970, cercadas de grande entusiasmo
+ raios de esperança, segundo uma famosa formulação. Entretanto, ao longo da
+década de 1980, as esperanças frustraram-se diante da queda nos custos da energia
+convencional, seus próprios desafi os econômicos, a imaturidade da tecnologia
+e a decepção em seu emprego. Com preços moderados e a aparente restauração da
+estabilidade da energia no início da década de 1990, as perspectivas das energias
+renováveis tornaram-se ainda mais desafi adoras.
+Enquanto isso, a conscientização ambiental popularizava-se. Em geral, os problemas
+ambientais tradicionalmente eram locais ou regionais. Mas havia uma aten-
+22  A BUSCA
+ção crescente a um novo tipo de questão ambiental, uma questão planetária: a mudança
+climática e o aquecimento global. A princípio, a atenção limitava-se a um
+segmento relativamente reduzido de pessoas. Em seu devido tempo, isso mudaria,
+com profundas implicações para a indústria de energia  convencional, renovável
+e alternativa.
+Em outros aspectos, a combinação de políticas de energia lançadas na década de
+1970 com a dinâmica do mercado havia funcionado. Diante de grande ceticismo, a
+efi ciência energética  conservação de energia  tinha se revelado uma contribuição
+muito mais vigorosa para o mix de energia do que o previsto.
+UM ORIENTE MÉDIO ESTÁVEL
+A política do Oriente Médio, que com tanta frequência atormentou a segurança
+do fornecimento de energia, deixara de ser uma ameaça. Na década que se seguiu à
+crise do Golfo, parecia que o Oriente Médio estava mais estável e que os tumultos
+e as crises do petróleo eram coisa do passado. Já não havia mais a União Soviética
+para interferir na política regional, e o resultado da crise do Golfo e o peso dos
+Estados Unidos nos assuntos mundiais pareciam ser uma garantia de estabilidade
+quase certa.
+A Organização pela Libertação da Palestina (OLP) viu-se em um beco sem saída
+ao apoiar Saddam na crise do Golfo e, nesse processo, alienou muitos dos países
+árabes que foram seus benfeitores fi nanceiros. Tratou de reorientar-se rapidamente
+e daí em diante seguiu-se um progresso acelerado no processo de paz entre israelenses
+e palestinos. Em Washington, em setembro de 1993, Yasser Arafat, presidente
+da Autoridade Nacional Palestina (ANP), e Yitzhak Rabin, primeiro-ministro de
+Israel, assinaram os Acordos de Oslo, assumindo o compromisso bilateral de unir
+esforços para colocar um ponto fi nal ao longo confl ito. E então, diante do presidente
+Clinton, tendo como cenário a Casa Branca, fi zeram o que teria sido improvável
+três anos antes  trocaram um aperto de mãos. No ano seguinte, dividiram
+o prêmio Nobel da Paz com o ministro de Relações Exteriores de Israel, Shimon
+Peres. Isso tudo foi um sinal forte e positivo de que o mundo parecia estar caminhando
+a passos largos. Se Saddam não houvesse invadido o Kuwait, talvez isso não
+tivesse acontecido.
+Quanto a Saddam Hussein, aparentemente ele não iria mais a lugar algum.
+PRÓLOGO  23
+CONTENÇÃO
+Em 1991, as forças da coalizão haviam parado a 145km de Bagdá. A coalizão, que se
+reunira sob a autoridade das Nações Unidas com o objetivo de expulsar Saddam do
+Kuwait, não tinha poder para destituí-lo ou mudar o regime. Tampouco havia o desejo
+de envolvimento em uma guerra urbana potencialmente sangrenta que seria necessária
+para a expulsão fi nal do ditador. Acontece que a reação às imagens da destruição do
+exército iraquiano veiculadas pela televisão provocaram mais uma razão para levar a
+situação a um impasse  o que fi cou conhecido como efeito CNN. Além disso,
+presumia-se que os elementos das Forças Armadas iraquianas que haviam sido lesados
+fariam o que se esperava  iniciar um golpe  e que os dias de Saddam estavam
+contados. Mas sua crueldade e rígido controle eram tamanhos que, contrariando as
+expectativas, ele se apegou ainda mais ao poder após a guerra.
+Entretanto, sua posição fi cou muito abalada. Agora, o Iraque estava encurralado
+por um programa de inspeções, força militar e sanções conhecidas como medidas
+clássicas de contenção, em uma evocação à política que havia freado a expansão
+soviética durante a Guerra Fria. Além disso, nos anos que se seguiram, empreenderam-
+se esforços para apoiar os adversários de Saddam na tentativa de destituí-lo do
+poder, mas todos acabaram fracassando. No governo de Bill Clinton, a política de
+contenção tornou-se mais explícita. Somou-se ao que, àquela altura, fi cou conhecido
+como dupla contenção  Irã e Iraque.
+Na teoria, os inspetores de armas das Nações Unidas podiam circular livremente
+pelo Iraque em busca de elementos que poderiam entrar na composição de armas
+de destruição em massa (ADM). Na prática, porém, havia obstáculos constantes no
+caminho dos inspetores. Houve apenas um momento de cooperação surpreendente:
+em 1995, o chefe do pouco convencional programa de armas do Iraque, que por
+acaso era genro de Saddam Hussein, desertou, fugindo para a Jordânia. O regime
+entrou em pânico, com medo do que ele poderia revelar. Na tentativa de apropriar-
+-se antecipadamente de quaisquer revelações, Bagdá divulgou de repente meio milhão
+de documentos (que haviam sido escondidos em um galinheiro) detalhando a
+produção de uma variedade de armas biológicas. Porém, depois que Saddam conseguiu
+atrair o genro de volta ao Iraque (e mandou matá-lo), a obstrução foi retomada
+como regra geral.4
+No entanto, já se fora a época em que Saddam tinha capacidade de controlar o
+petróleo do mundo. Seu impacto contínuo sobre o petróleo vinha principalmente da
+24  A BUSCA
+capacidade que tinha de manipular os preços nas margens. Nos anos que se seguiram
+à Guerra do Golfo, como as exportações de petróleo não eram permitidas, a produção
+sofreu uma queda acentuada. Em 1995, as Nações Unidas criaram o programa
+Petróleo-por-alimentos (Oil-for-Food), que permitia ao Iraque vender uma quantidade
+específi ca de petróleo. Metade da receita era destinada a artigos essenciais,
+como medicamentos e alimentos. Antes de Saddam assumir o poder, o Iraque exportava
+alimentos para a Europa e fornecia tâmaras aos Estados Unidos. No entanto,
+sob o controle de Saddam, a agricultura havia perdido espaço e as exportações de
+petróleo passaram a proporcionar os recursos para importar os alimentos necessários
+ao país. A outra metade da receita era destinada aos reparos e ao fi nanciamento das
+inspeções da ONU. Daí em diante, a produção do Iraque recuperou-se, chegando
+a mais de dois milhões de barris por dia, sendo uma parte signifi cativa contrabandeada
+para a Jordânia, a Síria e o Irã. Além disso, o regime de Saddam contou com
+os bilhões de dólares de comissões secretas pagas pelos benefi ciados por contratos
+para vender o petróleo iraquiano, entre eles misteriosos intermediários russos, um
+magnata do petróleo do Texas e autoridades de países amistosos ao Iraque.5
+No entanto, o programa parecia estar sempre correndo perigo. Será que Saddam
+continuaria cooperando com o programa da ONU? Ou colocaria um ponto fi nal
+na cooperação, reduzindo ou eliminando por completo as exportações iraquianas
+ jogando os preços do petróleo abruptamente para cima? A incerteza acabou gerando
+considerável volatilidade de preços.
+No fi nal da década de 1990, a política de contenção dos Estados Unidos estava visivelmente
+desgastada. No Oriente Médio e na Europa, aumentava a sensação de que as
+sanções não afetavam Saddam e seus aliados, nem a Guarda Republicana que os mantinha
+no poder, mas sim o povo iraquiano de modo geral. Em 1998, Saddam expulsou
+permanentemente os inspetores de armas da ONU. Naquele ano, documentos elaborados
+por órgãos de inteligência do governo americano concluíram que as ambições de
+Saddam por armas de destruição em massa não estavam mais sob controle.6
+Entretanto, Saddam estava contido e, ao que parecia, nunca mais conseguiria
+renovar sua tentativa de controlar o golfo Pérsico. No vizinho Irã, em 1997,
+Mohammad Khatami, considerado reformista e relativamente moderado, foi eleito
+presidente, dando indícios de que a hostilidade mútua que até então havia dominado
+as relações entre Washington e Teerã se amenizaria. Com todas essas mudanças,
+o petróleo do Oriente Médio agora parecia muito mais seguro  e isso signifi cava
+que o abastecimento mundial de petróleo também estava mais seguro. Com essa
+PRÓLOGO  25
+estabilidade, acreditava-se que o preço do barril fi caria em torno de US$ 20. Para
+os motoristas americanos, isso signifi cava gasolina relativamente barata, o que eles
+pressupunham fazer parte de uma ordem natural.
+NOVOS HORIZONTES E A REVOLUÇÃO SILENCIOSA
+Ao mesmo tempo, a tecnologia estava elevando a segurança da oferta de petróleo de
+outra maneira  expandindo a variedade de brocas de perfuração e aumentando as
+reservas recuperáveis. A indústria petrolífera passava por um período de inovação,
+aproveitando os avanços nas comunicações, nos computadores e na tecnologia da
+informação para encontrar recursos e desenvolvê-los, na terra ou no mar.
+Com muita frequência, na história da indústria do petróleo, diz-se que o avanço
+tecnológico chegou ao seu limite e que o fi m da estrada para o setor está bem ao
+alcance dos nossos olhos. Então, surgem inovações que expandem radicalmente os
+recursos. Tal padrão se repete inúmeras vezes.
+Os rápidos avanços no microprocessamento propiciaram a análise de uma quantidade
+muito maior de dados, permitindo aos especialistas em geofísica melhorar
+bastante a interpretação das estruturas subterrâneas e, assim, aumentar o sucesso
+da exploração. A maior capacidade de computação signifi cou que o mapeamento
+sísmico das estruturas subterrâneas  os estratos, as falhas, as rochas capeadoras,
+as trapas  agora pode ser tridimensional, não mais bidimensional. Esse mapeamento
+sísmico tridimensional, embora esteja longe de ser infalível, permitiu aos
+exploradores melhorar bastante sua compreensão da geologia nas camadas mais
+profundas do solo.
+O segundo avanço foi o advento da perfuração horizontal. Em lugar do tradicional
+poço vertical, os poços hoje podem ser perfurados na vertical nas primeiras centenas
+de metros e depois vertidos em um ângulo ou até de lado, sendo o progresso
+da perfuração controlado com extrema rigidez e medido a cada pequeno intervalo
+com o uso de ferramentas extremamente sofi sticadas. Isso signifi ca a possibilidade
+de acesso a uma parte muito maior do reservatório, aumentando assim a produção.
+A terceira inovação foi o desenvolvimento de programas e visualização computadorizada
+que se tornaram padrão nos setores de engenharia e construção.
+Aplicada ao setor petrolífero, a tecnologia CAD/CAM (computer aided design/
+computer-aided manufacturing) permitiu que o projeto de uma plataforma off shore
+26  A BUSCA
+de bilhões de dólares fosse realizado nos mínimos detalhes na tela do computador,
+e que sua resiliência e efi ciência fosse testada de inúmeras maneiras muito antes de
+se iniciar a solda da primeira peça de aço.
+Avançando um pouco mais na década de 1990, a disseminação das informações e
+da tecnologia de comunicação, e a extraordinária queda nos custos de comunicação
+signifi caram que os geocientistas poderiam trabalhar como parte de equipes virtuais
+em diferentes partes do mundo. A experiência e o conhecimento de um campo em
+determinado lugar poderiam ser instantaneamente compartilhados com aqueles
+que estivessem tentando resolver problemas semelhantes em campos análogos do
+outro lado do mundo. Resultado: o CEO de uma empresa disse na época, com certo
+exagero, que cientistas e engenheiros alcançariam o topo da curva de aprendizado
+uma única vez.
+Esses e outros avanços tecnológicos signifi caram que as empresas poderiam fazer
+coisas que até pouco tempo atrás seriam impensáveis  seja identifi car novos locais
+para prospecção, explorar campos que antes não poderiam ser desenvolvidos, assumir
+projetos muito mais complexos, recuperar mais petróleo ou abrir províncias de
+exploração inteiramente novas.
+De modo geral, a tecnologia ampliou os horizontes do petróleo mundial, permitindo
+o surgimento de novas fontes que sustentaram o crescimento econômico
+e expandiram a mobilidade ao redor do mundo. Bilhões de barris de petróleo que
+não poderiam ser acessados ou produzidos uma década antes estavam agora ao nosso
+alcance. Tudo isso veio a ser um progresso tecnológico just-in-time. Pois o mundo
+parecia estar seguindo em uma pista de alta velocidade em termos de crescimento
+econômico  e, consequentemente, da necessidade de mais petróleo.
+A geopolítica do mundo também estava mudando com extrema rapidez. Países antes
+fechados ou com limitações aos investimentos de empresas internacionais agora
+se abriam, convidando as empresas a levarem seus conhecimentos e tecnologia junto
+com seu dinheiro. De uma hora para a outra, rompeu-se a estrutura aparentemente
+imutável do confronto global.
+Em particular, ocorriam mudanças nos Estados que sucederam a União Soviética
+ a Rússia e países recém-independentes localizados no entorno do mar Cáspio
+ que integrariam a região aos mercados globais. Era como se o fi nal do século XX
+estivesse reencontrando o início do século. O efeito seria a ampliação dos alicerces
+PRÓLOGO  27
+da oferta mundial de petróleo. Como dizia um artigo publicado na revista Foreign
+Aff airs em 1993: O petróleo é, de fato, um negócio global pela primeira vez, desde
+que se levantaram as barricadas da Revolução Bolchevique.7
+Essa observação teve um signifi cado especial para a Rússia, pátria da Revolução
+Bolchevique, e que agora rivalizava com a Arábia Saudita na capacidade de produção
+de petróleo.
+
+PARTE
+UM
+  
+O novo mundo
+do petróleo
+
+1
+O RETORNO DA RÚSSIA
+Na noite de 25 de dezembro de 1991, o presidente soviético Mikhail Gorbachev
+fez um anúncio surpreendente em rede nacional  um discurso inimaginável
+um ou dois anos antes: Por meio deste comunicado, interrompo
+minhas atividades no cargo de presidente da União das Repúblicas Socialistas Soviéticas.
+E, acrescentou, a União Soviética em breve deixaria de existir.
+Temos muito de tudo  terras, petróleo, gás e outros recursos naturais , além
+disso, havia talento e intelecto em abundância, continuou. Entretanto, vivíamos muito
+pior do que as pessoas nos países industrializados e estávamos fi cando cada vez mais para
+trás. Ele se esforçara em implementar reformas, mas o tempo havia se esgotado. Alguns
+meses antes, comunistas conservadores tinham tentado dar um golpe, mas fracassaram.
+A tentativa de golpe, porém, deu a partida na desintegração fi nal. O antigo sistema
+desmoronou muito antes de o novo sistema começar a operar, afi rmou.
+Evidentemente, acrescentou, cometeram-se erros que poderiam ter sido evitados
+e muitas das coisas que fi zemos poderiam ter sido mais bem-feitas. Mas não
+perdeu a esperança. Um dia, nossos esforços coletivos darão frutos e nossos países
+viverão em uma sociedade próspera e democrática. E concluiu de maneira simples:
+Desejo a todos o melhor.1
+Com isso, desapareceu no éter e na incerteza da noite.
+Seu discurso durou, ao todo, apenas doze minutos. E pronto. Depois de sete
+décadas, o comunismo havia acabado na terra em que nasceu.
+32  A BUSCA
+Seis dias depois, em 31 de dezembro, a União das Repúblicas Socialistas Soviéticas
+deixou de existir formalmente. Mikhail Gorbachev, o último presidente da
+União Soviética, passou a bola  a maleta com os códigos para ativar o arsenal
+nuclear soviético  a Boris Yeltsin, primeiro presidente da Federação Russa. Não
+houve toque de sinos ou cornetas para marcar essa importante transição. Apenas
+uma reação atordoada, muda  e de descrença. A União Soviética, uma superpotência
+global, acabara. Seus sucessores seriam quinze Estados de tamanhos variados,
+da enorme Federação Russa à pequenina Estônia. A Rússia era, de longe, a primeira
+entre iguais: era legatária da velha União Soviética; herdara não apenas os códigos
+nucleares, mas também seus ministérios e suas dívidas. O que antes fora a fechada
+União Soviética agora estava, em maior ou menor grau, aberto ao mundo. Isso, entre
+outras coisas, redesenharia o mapa do petróleo mundial.
+Entre as dezenas de milhões de pessoas que haviam assistido à despedida de Gorbachev
+na televisão em 25 de dezembro encontrava-se Valery Graifer. Para Graifer, o colapso
+da União Soviética era simplesmente uma catástrofe, uma verdadeira catástrofe.
+Durante meia década, ele estivera no centro do setor soviético de petróleo e gás. Esteve
+à frente da gigantesca operação na Sibéria Ocidental, o último grande feito industrial
+do sistema soviético. Graifer tinha sido enviado à região em meados da década de 1980,
+quando a produção começou a cambalear, com o objetivo de restaurá-la e otimizá-la.
+Sob o seu comando, a Sibéria Ocidental havia atingido oito milhões de barris por dia
+ praticamente rivalizando com a produção total da Arábia Saudita. A escala do empreendimento
+era enorme: cerca de 450 mil pessoas estavam subordinadas a ele. E a
+operação fazia parte de um setor ainda maior. Éramos como uma grande família petrolífera,
+com ramifi cações em todas as repúblicas da União Soviética, declarou mais
+tarde. Se alguém tivesse me dito que essa família estava prestes a se desmantelar, eu
+teria rido. Mas o choque do colapso passou e, um ano depois, ele havia montado uma
+empresa de tecnologia para oferecer serviços à nova indústria petrolífera da Rússia independente.
+Foi um período difícil, disse. Mas aprendi que a vida continua.2
+ESTÁ FALTANDO PÃO
+Uma das grandes ironias da União Soviética era que, embora o sistema comunista fosse
+praticamente sinônimo de industrialização acelerada, sua economia nas décadas fi nais
+era bastante dependente dos vastos recursos naturais  em particular, de petróleo e gás.
+O RETORNO DA RÚSSIA  33
+O sistema econômico que Joseph Stalin impusera à União Soviética baseava-se
+no planejamento central, planos quinquenais e autossufi ciência  o que Stalin
+chamava de socialismo em um só país. A União Soviética estava basicamente isolada
+da economia mundial. Foi só na década de 1960 que os soviéticos ressurgiram
+no mercado mundial como exportadores relevantes de petróleo e, na década de
+1970, de gás natural. Nas palavras de um líder do setor petrolífero russo, o petróleo
+cru, junto com outros recursos naturais, era praticamente o único vínculo da
+União Soviética com o mundo para conseguir a moeda forte tão necessária ao
+país quase isolado.3
+No fi nal da década de 1960, a economia soviética mostrava sinais de decadência
+e incapacidade de manter o crescimento econômico. Entretanto, por ser um importante
+exportador de petróleo, tirou a sorte grande com a ocorrência da Guerra do
+Yom Kippur (1973), e o embargo do petróleo árabe: os preços do petróleo quadriplicaram.
+A economia benefi ciou-se ainda mais no início da década de 1980, quando
+os preços dobraram em resposta à Revolução Iraniana. Esse aumento na receita
+gerada pelo petróleo ajudou a manter a debilitada economia soviética de pé por mais
+uma década, permitindo ao país fi nanciar sua condição de superpotência militar e
+suprir outras necessidades urgentes.
+No topo da lista dessas necessidades estava a importação de alimentos, necessária em
+função da crise agrícola endêmica pela qual o país passava, com o objetivo de evitar
+escassez aguda, até mesmo fome e instabilidade social. Às vezes, a ameaça de escassez
+de alimentos era tão iminente que o premier soviético Alexei Kosygin ligava para o
+chefe da produção de petróleo e gás e lhe dizia: Está faltando pão. Preciso de mais
+três milhões de toneladas (de petróleo) além do planejado.
+O economista Yegor Gaidar, primeiro-ministro interino russo em 1992, resumiu
+o impacto dos aumentos dos preços do petróleo da seguinte forma: A moeda
+forte gerada pelas exportações de petróleo deteve a crescente crise do suprimento de
+alimentos, aumentou a importação de equipamentos e bens de consumo, garantiu
+uma base fi nanceira para a corrida armamentista e a conquista da paridade nuclear
+com os Estados Unidos e permitiu a realização de ações políticas arriscadas, como a
+guerra no Afeganistão.4
+O aumento de preços também permitiu à União Soviética seguir em frente sem
+reformar sua economia ou alterar sua política externa. Aprisionada em sua própria
+34  A BUSCA
+inércia, a liderança soviética não levou a sério a possibilidade de que os preços do
+petróleo pudessem cair um dia, tampouco se prepararam para tal eventualidade.
+CARO JOHN, SOCORRO.
+Mikhail Gorbachev subiu ao poder em 1985, determinado a modernizar a economia
+e o sistema político sem subverter uma nem outro. Sabíamos que tipo de país
+nós tínhamos, dizia. Era o país mais militarizado, mais centralizado, mais rigidamente
+disciplinado; e repleto de armas nucleares e outras armas.
+Uma questão que o enfureceu quando assumiu o cargo  meias-calças femininas
+ simbolizou para ele o que havia de errado. Estávamos planejando a criação de uma
+comissão liderada pelo secretário do Comitê Central () para resolver o problema
+das meias-calças femininas, disse. Imagine um país que coloca aeronaves no espaço,
+lança Sputniks, cria um poderoso sistema de defesa, mas não consegue resolver o problema
+de meias de mulher. Não há pasta de dente, sabão em pó e outros artigos para
+as necessidades básicas da vida. Era incrível e humilhante trabalhar em tal governo.
+Mas Gorbachev não teve muita sorte no timing. Em 1986, um ano após sua ascensão,
+o excesso de oferta e a demanda reduzida no mercado mundial de petróleo defl agraram
+um enorme colapso nos preços internacionais do barril. Isso reduziu drasticamente os
+ganhos em moeda forte de que o país necessitava para pagar pelas importações.
+Embora a indústria do petróleo soviética  agora centrada na Sibéria Ocidental
+ continuasse a aumentar a produção, isso não bastava para resgatar a economia do
+declínio. Ao mesmo tempo, Gorbachev relaxava o controle da repressão comunista
+sobre a sociedade.5
+Embora o colapso nos preços do petróleo tenha sido o golpe fi nal, como escreveu
+Yegor Gaidar, o fracasso foi do sistema em si. O colapso do sistema soviético,
+disse ele, havia sido predestinado pelas características fundamentais do sistema econômico
+e político soviético, que não permitiram que o país se adaptasse aos desafi os
+do desenvolvimento mundial no fi nal do século XX. Altos preços do petróleo não
+constituíam um alicerce confi ável para a preservação do último império.
+No fi nal da década de 1980 e início da de 1990, a palavra crise nos documentos
+do governo e do partido estava sendo substituída por crise aguda e, depois, por catástrofe.
+A escassez de alimentos era grave. Em um dado momento, São Petersburgo
+fi cou praticamente sem derivados de leite para as crianças.
+O RETORNO DA RÚSSIA  35
+Em novembro de 1991, Gorbachev pediu que um dos seus auxiliares enviasse
+ao primeiro-ministro britânico, John Major, na época líder do G7, uma mensagem
+composta de três palavras: Caro John, socorro.6
+Apenas um mês depois, Gorbachev anunciou na televisão a dissolução da União
+Soviética.
+UMA NOVA RÚSSIA: NINGUÉM NOS CONTROLES
+A partir do dia 1o de janeiro de 1992, a Rússia passou a ser um Estado independente,
+enorme, abrangendo onze fusos horários. A economia socialista com planejamento
+central da União Soviética, na qual praticamente todas as medidas econômicas eram
+resultado de decisões burocráticas, havia se desintegrado deixando um rastro de incerteza
+e caos econômico. Não existia estado de direito comercial, base para contratos,
+canais estabelecidos ou regras para o comércio. A permuta tornou-se a ordem
+do dia, não apenas para os novos comerciantes que surgiam nas ruas ou trabalhavam
+em casa, mas também para as fábricas, que comercializavam mercadorias e produção
+como se fossem uma moeda. Era também uma mistura insana em que todos podiam
+ter vez, na medida em que grande parte dos ativos comerciais do Estado e dos národs
+ o povo soviético  agora estavam em plena atividade. Foi uma época assustadora
+para a população, uma época de grandes difi culdades: as pensões e salários, quando
+eram pagos, perdiam o valor; e o baixo, porém garantido, nível de segurança econômica
+com o qual contavam desaparecia bem diante dos seus olhos.
+Era assustador também para os jovens reformistas que haviam chegado ao poder
+com o apoio do presidente Boris Yeltsin. Uma potência nuclear estava em estado de
+anarquia, disse Gaidar, o primeiro ministro da Fazenda de Yeltsin. Não tínhamos
+dinheiro, ouro ou cereais para nos virar até a próxima safra, e não havia como inventar
+uma solução. Era como fazer uma viagem de avião, entrar na cabine do piloto e descobrir
+que não havia ninguém nos controles. Os reformistas não podiam sequer entrar
+nos computadores do governo, pois as senhas haviam se perdido durante o colapso.
+Na época, havia duas necessidades urgentes. Uma era estabilizar a economia, renovar
+o fl uxo de mercadorias e serviços, manter as pessoas alimentadas e aquecidas
+e construir os alicerces para o comércio e uma economia de mercado. A outra era
+descobrir o que fazer com todas as fábricas, empresas e recursos  os meios de produção
+de propriedade do governo  e, de algum modo, levá-los a outra forma de
+36  A BUSCA
+propriedade  privada, mais produtiva e apropriada a uma economia de mercado.
+Como praticamente tudo era de propriedade do governo, isso signifi cava que todos
+os ativos da União Soviética estavam à disposição para quem quisesse.
+E muitos queriam. Nas palavras do presidente Yeltsin, os ativos econômicos do
+Estado estavam sendo privatizados arrebatadamente, espontaneamente e, muitas
+vezes, por meios escusos. Ele e sua equipe de reformistas estavam determinados a
+recuperar o controle, romper com o que quer que houvesse restado da economia
+planifi cada e substituí-la por um novo sistema econômico baseado na propriedade
+privada. Os objetivos da privatização não eram apenas econômicos; eles também
+queriam impedir de qualquer maneira um retorno do passado comunista eliminando
+ativos do controle estatal o mais depressa possível. Para difi cultar ainda mais as
+coisas, essa convulsão econômica ocorreu em meio a um cenário político tumultuado:
+um impasse entre o governo Yeltsin e a Duma, a Câmara de Deputados russa,
+incluindo uma violenta rebelião na própria Câmara  a primeira guerra na Chechênia
+ e uma eleição presidencial em 1996 que, até o fi m da campanha, parecia que
+terminaria com uma vitória dos comunistas ressurgentes.
+O sistema soviético havia deixado muitos legados valiosos: uma enorme rede de
+grandes empresas industriais (ainda que presas à década de 1960 em termos de tecnologia),
+uma vasta máquina militar e um extraordinário reservatório de talentos
+científi cos, matemáticos e técnicos, ainda que desconectados da economia comercial.
+O setor de petróleo, altamente capaz, sofria com o peso de uma infraestrutura
+obsoleta. Sob o solo, havia enorme riqueza na forma de petróleo e de outras matérias-
+primas que Gorbachev havia citado em seu discurso de despedida.7
+RECONSTRUINDO A INDÚSTRIA PETROLÍFERA
+Esses recursos naturais  particularmente petróleo e gás natural  eram tão fundamentais
+para o novo Estado russo como haviam sido para a ex-União Soviética. Em
+meados da década de 1990, as receitas obtidas com a exportação de petróleo representaram
+mais de dois terços dos ganhos em moeda forte do governo russo. O destino
+dado a essas receitas dominou a política russa e a política econômica ao longo
+das décadas de 1990 e 2000. Entretanto, a indústria petrolífera estava em meio à
+mesma anarquia que o resto da economia. Os operários, que não recebiam salários,
+entraram em greve, paralisando os campos de petróleo. A produção e o abasteci-
+O RETORNO DA RÚSSIA  37
+mento em todo o país fi caram prejudicados. O petróleo estava sendo expropriado
+ou roubado e vendido em troca de moeda forte no Ocidente. Não se sabia sequer de
+quem era o petróleo. Organizações de produção em várias partes da Sibéria Ocidental
+e em outros lugares declararam-se independentes e tentaram entrar sozinhas no
+negócio. De uma hora para a outra, a indústria petrolífera estava sendo administrada
+por quase duas mil associações, empresas e organizações descoordenadas que antes
+pertenciam ao Ministério da Indústria da ex-União Soviética. Em meio a tal perturbação
+e faminta por investimentos, a produção de petróleo russo começou a cair e,
+em seguida, entrou em colapso. Em pouco mais de meia década, a produção russa
+caíra quase 50%  uma perda impressionante de mais de cinco milhões de barris
+ao dia. A privatização, também nesse caso, seria a solução. Mas como fazê-la? A indústria
+petrolífera estava estruturada para suprir as necessidades de um sistema com
+planejamento central. Era organizada horizontalmente, com diferentes ministérios
+ petróleo, refi no e petroquímica, além de comércio exterior  controlando cada
+segmento do setor. A indústria de recursos era tão importante para o novo Estado
+quanto havia sido para o velho, e foi necessário um tratamento diferente daquele
+conferido às demais privatizações.
+Uma pessoa com ideias claramente ponderadas sobre o que fazer era Vagit
+Alekperov. Natural de Baku, ele trabalhara na indústria de petróleo off shore no Azerbaijão
+até ser transferido, aos 29 anos, para o novo território de posição estratégica
+para o petróleo soviético, a Sibéria Ocidental. Lá, caiu nas graças de Valery Graifer,
+que na ocasião estava à frente da produção de petróleo na região, na tentativa de
+levá-la ao desempenho máximo. Reconhecendo a capacidade de Alekperov, Graifer
+o promoveu, colocando-o à frente de uma das mais importantes regiões de fronteira
+da Sibéria Ocidental. Em 1990, Alekperov saltou para Moscou, onde se tornou vice-
+-ministro do Petróleo.
+Em viagens ao Ocidente, Alekperov visitou diversas companhias de petróleo.
+Viu uma maneira totalmente diferente de se operar uma empresa no setor. Foi
+uma revelação, disse. Lá estava um tipo de organização fl exível e capaz, uma empresa
+que abordava diversos aspectos ao mesmo tempo  exploração, produção
+e engenharia  e todos estavam em busca do mesmo objetivo; as áreas não operavam
+separadamente uma da outra. Voltou para Moscou convencido de que a
+organização típica encontrada no restante do mundo  empresas integradas
+verticalmente, com exploração e produção, refi no e comercialização em uma só
+estrutura  era a forma certa de organizar a moderna indústria de petróleo. An-
+38  A BUSCA
+tes do colapso da União Soviética, sua tentativa de promover uma empresa estatal
+integrada verticalmente foi repelida com desprezo. Seus adversários o acusaram
+de destruir o setor de petróleo. Ele tentou mais uma vez depois que a Rússia se
+tornou um Estado independente, pois manter a confi guração existente, disse ele,
+seria o caminho certo para o caos.8
+Em novembro de 1992, o presidente Yeltsin adotou essa abordagem no Decreto
+1.403, que tratava da privatização da indústria petrolífera. A nova lei previa três
+empresas petrolíferas integradas verticalmente  Lukoil, Yukos e Surgut. Cada uma
+delas combinaria áreas de exploração e produção de petróleo com sistemas de refi no
+e de comercialização. E acabariam se tornando algumas das maiores empresas do
+mundo. O Estado manteria participação substancial na estrutura de propriedade
+durante um período de transição de três anos, enquanto as novas empresas tentavam
+assumir o controle sobre o que agora eram grupos semi-independentes de produção
+e refi no, subjugaria as subsidiárias rebeldes e captaria o controle sobre as vendas e
+exportações de petróleo, além da moeda forte proveniente dessas transações. O controle
+acionário de outras empresas na indústria petrolífera também fi caria durante
+três anos nas mãos do que deveria ser uma empresa estatal temporária, a Rosneft , na
+tentativa de ganhar tempo para as decisões acerca de seu futuro.
+Essa reestruturação teria sido difícil em quaisquer circunstâncias. E era algo
+muito difícil de fazer no início e em meados da década de 1990, quando o Estado
+estava fraco e não existia muita lei ou ordem. Havia violência em todos os níveis,
+com as máfi as russas  gangues, criminosos comuns e veteranos dos campos de prisioneiros
+com tatuagens assustadoras  oferecendo proteção em troca de dinheiro,
+vendendo petróleo bruto e produtos refi nados saqueados e tentando roubar ativos
+dos terminais locais de distribuição. Enquanto as gangues brigavam pelo controle,
+a palavra contrato muitas vezes referia-se não a um acordo legal, mas sim a um assassinato
+encomendado. Nas cidades das regiões petroleiras, quadrilhas rivais tentavam
+dominar setores inteiros da economia local  de feiras a hotéis e até estações de
+trem. Os incentivos eram claros: petróleo signifi cava riqueza e conseguir controlar
+alguma parte do negócio era a maneira certa de enriquecer rapidamente em uma
+escala impensável na época do regime soviético, apenas alguns anos antes.9
+No entanto, o Estado acabou voltando a impor o poder de polícia e as empresas
+petrolíferas recém-estabelecidas criaram forças de segurança próprias, em geral
+formadas por experientes veteranos da KGB, e a sangrenta maré da violência e das
+guerras entre as gangues começou a recuar.
+O RETORNO DA RÚSSIA  39
+LUKOIL E SURGUT
+Enquanto isso, após o decreto de privatização de Yeltsin, as principais companhias
+de petróleo russas começavam a tomar forma.
+A mais visível era a Lukoil. Vagit Alekperov, dotado de uma clara visão de uma
+companhia de petróleo integrada, resolveu construí-la o mais rápido possível. A primeira
+providência foi reunir um grupo de organizações de produção e refi no de petróleo
+que, até então, não tinham conexão alguma entre si. Percorreu o país de canto
+em canto, tentando convencer a administração de cada organização a aderir a esta
+nova entidade desconhecida chamada Lukoil. Para que a Lukoil viesse a existir, era
+preciso contar com a adesão de todas as entidades. O mais difícil foi convencer os
+gerentes a unirem seus interesses, disse Alekperov. O país estava um caos e todos nós
+tínhamos que sobreviver, pagar salários e manter as entidades unidas. Sem essa união,
+não sobreviveríamos. Eles ouviram a mensagem, aderiram, e a Lukoil tornou-se uma
+empresa de fato.
+Alekperov reconheceu a pesada carga que as novas empresas russas carregavam
+ o que chamou de legado soviético de equipamentos obsoletos, assim como mão
+de obra e sistemas de gerenciamento de produção igualmente obsoletos. A Lukoil
+tinha que almejar as melhores práticas internacionais. Desde o início, Alekperov
+adotou padrões internacionais e usou fi rmas de advocacia, contadores e banqueiros
+internacionais. Em 1995, o diretor fi nanceiro da empresa petrolífera americana
+Arco leu um artigo sobre a Lukoil na revista Th e Economist. Ficou tão intrigado que
+resolveu acompanhar o desempenho da empresa e a Arco mais tarde adquiriu uma
+parte da Lukoil. Desde os seus primórdios, a Lukoil também buscou uma estratégia
+internacional, primeiro nos outros novos países da ex-União Soviética e, depois, em
+outras partes do mundo.
+Se a Lukoil era a mais internacional das grandes empresas petrolíferas russas, a Surgut
+era decididamente a mais russa de todas. Seu CEO, Vladimir Bogdanov, era conhecido
+por alguns como o eremita do petróleo. Natural de uma pequena aldeia siberiana,
+Bogdanov fez nome como perfurador em Tyumen e a empresa que gerenciava na região
+tornou-se a base do que acabou se transformando em Surgutneft egaz, mais conhecida
+como Surgut. Nunca se mudou para Moscou; ao contrário, preferiu manter a sede da empresa
+na cidade de Surgut. Como explicou certa vez, gostava de ir a pé para o trabalho.10
+Tanto a Lukoil quanto a Surgut eram administradas por pessoas que teriam sido
+qualifi cadas como generais do petróleo no sistema soviético.
+40  A BUSCA
+YUKOS: A VENDA DO SÉCULO
+Muito diferente das duas era uma empresa chamada Yukos. Foi uma das primeiras empresas
+russas de petróleo a ser administrada por um dos novos oligarcas que haviam
+surgido não da indústria petrolífera, mas dos tempos caóticos de transição econômica.
+Mikhail Khodorkovsky começara com ambições soviéticas bastante ortodoxas:
+quando criança, dizia que seu objetivo era subir aos mais altos níveis do sistema industrial
+soviético e chegar a ocupar o cargo de diretor de fábrica. Mais tarde, quando
+estudava no Instituto de Química Mendeleev, entrou nos negócios como líder escolar
+do Komsomol, organização comunista jovem, transformando-o em uma organização
+comercial. Passou então ao comércio de computadores e soft ware importados
+e, no fi nal da década de 1980, criou um banco chamado Menatep, que logo seria considerado
+sério o bastante para que lhe fossem confi adas contas do governo. O banco
+também ofereceu fi nanciamento para uma das novas empresas de petróleo, a Yukos.
+Khodorkovsky não demorou a concluir que o petróleo era um negócio ainda
+melhor do que os bancos. Seu senso de oportunidade foi perfeito. Em 1995, o governo
+russo carecia desesperadamente de recursos; alguns dos novos empresários e o
+governo Yeltsin elaboraram uma solução que fi cou conhecida por empréstimos em
+troca de ações. Empresários emprestariam dinheiro ao governo russo e teriam como
+garantia ações de empresas de petróleo e outras a preços especiais. Se o governo,
+como se previa, não honrasse o pagamento dos empréstimos, as ações acabariam nas
+mãos dos credores, que, portanto, passariam a controlar essas novas empresas. O governo,
+por sua vez, conseguiria os recursos imediatos necessários para se manter fi rme
+antes da eleição presidencial de 1996. Certamente era uma maneira incomum de
+privatizar ativos, e os empréstimos em troca de ações fi caram imortalizados como
+a venda do século. Khodorkovsky emprestou ao governo russo US$ 309 milhões e
+acabou adquirindo o controle das ações da Yukos.11
+Khodorkovsky dedicou-se à tarefa número um: obter o controle dos fl uxos de
+petróleo e dinheiro, que pareciam ir em todas as direções. Khodorkovsky não frequentara
+o Instituto Gubkin nem qualquer outra faculdade soviética especializada,
+e não era particularmente fã da abordagem do governo no desenvolvimento
+dos campos. Assim, recorreu às empresas ocidentais de prestação de serviços nos
+campos de petróleo, convidando-as a aplicar suas técnicas de desenvolvimento, em
+vez das sovié ticas. A medida geraria aumentos dramáticos na produção. (E, mais
+tarde, voltaria para assombrá-lo no confronto com o governo russo, sob a acusação
+O RETORNO DA RÚSSIA  41
+de ter violado reconhecidas e sólidas práticas russas de produção em campos de
+petróleo.) Quanto mais aumentavam sua riqueza e infl uência, mais aumentavam
+suas ambições.
+Essas empresas  Lukoil, Surgut e Yukos  eram as três grandes. Mas não eram
+as únicas. Restavam a estatal Rosneft ; seis minigrandes; e diversas outras empresas,
+inclusive as de propriedade de governos de regiões ricas em petróleo.
+Uma das minigrandes era a TNK. Um consórcio de proprietários, o grupo AAR,
+reuniu-se para adquirir a empresa em 1997. Eles viriam a se tornar os mais proeminentes
+oligarcas do país. Três deles vinham do Alfa Bank. Mikhail Fridman era
+egresso do Instituto de Aço e Ligas Metálicas. Trabalhou em uma fábrica durante
+alguns anos, mas, quando foi possível entrar nos negócios, no fi nal da década de
+1980, mergulhou de cabeça, fundando uma série impressionante de empreendimentos,
+de uma cooperativa de fotógrafos a uma empresa de limpeza de janelas. Apesar
+do caos e de ter sido advertido de que seus negócios não dariam certo, Fridman disse
+mais tarde: Tínhamos uma convicção interna. Seu sócio, German Khan, também
+egresso do Instituto de Aço e Ligas Metálicas, gerenciava o que fi cou conhecido
+como a parte de trading de petróleo da nova empresa e manteria o foco no negócio
+de petróleo em si. O dinheiro que ganharam negociando commodities lhes permitiu
+montar o Alfa Bank. O terceiro sócio era Peter Aven, que já tinha estabelecido sua
+reputação como matemático acadêmico e fora ministro do Comércio Exterior no
+início da década de 1990.
+Os outros membros do consórcio eram Viktor Vekselberg, treinado em engenharia
+de transportes, e Len Blavatnik, que havia emigrado para os Estados Unidos
+aos 21 anos e conseguiu chegar à Harvard Business School depois de um breve período
+como programador de computador. Blavatnik fez sua primeira visita de volta
+à União Soviética em 1988. O país estava muito diferente. Voltou mais uma vez em
+1991  agora, era a Rússia  e levou a sério a intenção de investir em uma nação
+recém-independente, o que o levou a se associar a outras pessoas na TNK. Esta, por
+sua vez, controlava metade do campo de petróleo Samotlor, na Sibéria Ocidental.
+Era uma joia cobiçada  encontrava-se no grupo de meia dúzia dos maiores campos
+de petróleo do mundo.
+Outra empresa se sobressaía  a Sibneft , que signifi cava petróleo siberiano.
+Tratava-se do mais clássico exemplo do modelo de empréstimos em troca de ações.
+Roman Abramovich, que comercializava de tudo, de petróleo a brinquedos infantis,
+associou-se a Boris Berezovsky e emprestou US$ 100 milhões ao falido governo russo,
+42  A BUSCA
+recebendo como garantia metade da Sibneft . Quando o governo não conseguiu quitar
+o empréstimo, como previsto, esses oligarcas fi caram com o controle da empresa. Berezovsky
+foi para o exílio político depois de se desentender com o presidente Vladimir
+Putin. Abramovich seguiu um caminho diferente. Assumiu as funções adicionais de
+governador de uma região empobrecida do extremo oriente russo. Acabou vendendo
+a Sibneft à gigante de gás do país, a Gazprom, e mudou-se para a Inglaterra, onde é
+considerado a segunda pessoa mais rica do país, atrás apenas da rainha.12
+De modo geral, em 1998, seis anos após o colapso do antigo regime, a indústria
+petrolífera russa deixou de ser um sistema administrado por uma série de ministros
+e subordinado ao planejamento central, passando a um sistema de grandes empresas
+integradas verticalmente, organizadas, pelo menos em linhas gerais, de maneira semelhante
+às empresas tradicionais do Ocidente. Durante esses anos, todas elas operaram
+de maneira autônoma em relação ao Estado. A Federação Russa tinha agora
+cinco grandes empresas de energia (Gazprom, TNK, Lukoil, Yukos e Surgutneftegaz),
+sendo que as reservas de petróleo de cada uma delas eram comparáveis ao
+tamanho das reservas das maiores empresas de petróleo do Ocidente.
+O desenvolvimento dessas empresas foi mais do que uma mera reconstrução maciça
+da indústria petrolífera no país; também proporcionou mudanças visíveis nas
+grandes cidades. Na época da União Soviética, quem tinha a sorte de ter um automóvel
+precisava procurar pelos precários e raros postos de combustível, localizados na
+periferia da cidade. Agora, postos novos e modernos surgiam nos cruzamentos e nas
+estradas, adornados com reluzentes logotipos corporativos  Lukoil, Surgut, TNK
+e de diversas outras empresas. Os postos vinham equipados não apenas com gasolina
+de alta octanagem de qualidade confi ável, mas também, em muitos casos, ofereciam
+coisas que muitos jamais esperavam ver, como lojas de conveniência e, ainda mais
+surpreendente, lava-carros automáticos. Tudo isso era impensável na era soviética.
+ABERTURA
+Como o resto do mundo via essa nova indústria do petróleo russa? Em 1992, perguntou-
+se ao líder de uma das maiores empresas de petróleo estatais do mundo qual
+era a sua opinião sobre a Rússia e todas as mudanças que estavam ocorrendo no país.
+Sua resposta foi muito simples. Quando penso na Rússia, respondeu sem hesitação,
+vejo uma concorrente.
+O RETORNO DA RÚSSIA  43
+Outros viram oportunidade. Durante muitas décadas após a Revolução Bolchevique
+de 1917, a União Soviética era um lugar fechado, quase proibido, um outro
+mundo. Sua indústria petrolífera operava praticamente no isolamento, quase excluída
+do fl uxo de tecnologia e equipamentos comuns ao resto do mundo.
+Nos últimos anos da era Gorbachev, no fi nal da década de 1980, a União Soviética
+começou a abrir as portas para joint ventures com empresas ocidentais. O objetivo era
+levar ao país a tecnologia necessária para melhorar o desempenho da indústria. Então
+ocorreu o colapso da União Soviética, o que acrescentava uma imensa nova perspectiva
+às empresas ocidentais: o potencial de participar em uma região rica em hidrocarbonetos,
+talvez comparável ao Oriente Médio em escala de recursos e oportunidades. As
+empresas logo enviaram equipes para levantar essas oportunidades.
+Algumas concluíram que, qualquer que fosse o risco russo, simplesmente não
+podiam se dar ao luxo de não estar na Rússia. Quando identifi camos a oportunidade,
+o entusiasmo foi grande, recorda-se Archie Dunham, na época CEO da americana
+Conoco. Era simplesmente uma oportunidade e tanto. Mas, com o passar do
+tempo, as empresas ocidentais descobriram como era difícil trabalhar no novo país.
+Dunham acrescentou: Havia o problema do Estado de direito, havia o problema
+fi scal e havia um problema logístico.
+O ambiente de incerteza política, as mudanças constantes nos personagens do
+governo, a corrupção, os riscos associados à segurança, as regras pouco claras e em
+constante mudança, a incerteza quanto a quem era quem e quem estava por trás
+de quem  tudo isso aumentava a relutância. Tínhamos oportunidades no mundo
+inteiro, disse Lucio Noto, CEO da Mobil. Depois que você enterra bilhões de dólares
+no chão, não há como tirá-los de lá.13
+Quando analisaram o panorama  as condições operacionais, os equipamentos e
+os campos , as empresas ocidentais viram uma indústria que sofria após décadas
+de isolamento e que não dispunha dos equipamentos atualizados, habilidades avançadas
+e capacidade computacional sufi ciente. Reconheceram que os geocientistas
+russos estavam na vanguarda de suas disciplinas, mas que, na Rússia, havia uma enorme
+distância entre teoria e prática. Viram também a difícil situação nos campos
+de petróleo russos e a necessidade desesperada de investimento. Os ocidentais estavam
+convencidos de que seriam bem-vindos porque levariam tecnologia, capital,
+expertise e habilidades gerenciais ao país. No entanto, não era assim que a indústria
+44  A BUSCA
+petrolífera russa os via. As pessoas que atuavam no setor orgulhavam-se tremendamente
+das conquistas da indústria soviética, confi avam em suas próprias habilidades
+e ressentiam-se muito da implicação de que não estariam à altura dos padrões vigentes
+no mundo. Para eles, a indústria russa não precisava de estrangeiros lhes dizendo
+o que fazer. Tampouco precisava de participação estrangeira direta substancial para
+transferir tecnologia. Se os russos precisassem de tecnologia, poderiam adquiri-la de
+empresas de serviços no mercado mundial.
+Nem o governo nem as emergentes classes empresarial e política viam motivo
+para abrir mão do controle sobre recursos substanciais em benefício de empresas
+ocidentais. Eles podem não ter concordado entre si quanto a de quem seriam, em
+última análise, esses recursos e quem controlaria a riqueza por eles gerada, mas havia
+uma unanimidade: não seriam os estrangeiros.
+As grandes empresas petrolíferas ocidentais (com uma grande exceção) não podiam
+operar em escala alguma no núcleo, ou seja, as áreas tradicionais de grande
+produção, os campos maduros da Sibéria Ocidental. Entretanto, era nessas áreas
+que havia pouco desenvolvimento e grandes desafi os técnicos a serem superados, e
+era justamente onde as empresas ocidentais teriam vantagem competitiva em termos
+de tecnologia e execução de projetos complexos.
+AS PERIFERIAS
+Em parceria com a Lukoil, a Conoco assumiu um projeto na região norte do Ártico.
+A Conoco levou à Rússia o know-how que adquirira no Alasca, onde novas tecnologias
+haviam sido desenvolvidas para minimizar o impacto nas regiões árticas. Entretanto,
+o projeto Luzes Polares foi constantemente atormentado por uma interminável
+profusão de novas exigências fi scais e novas regulamentações. O chefe regional
+local, um ex-mecânico de snowmobile, era conhecido por exigir propina sempre que
+uma nova licença era liberada. Por fi m, a Conoco teve que dizer a Moscou que sairia
+do projeto caso as demandas extracontratuais continuassem.14
+Tanto a Exxon quanto a Shell foram para Sakhalin, a ilha de quase 1.000km de
+extensão no litoral do extremo oriente da Rússia, ao norte do Japão, onde havia uma
+pequena produção onshore. Embora existissem imensos desafi os técnicos lá, havia
+um potencial aparente igualmente imenso, em especial off shore. Embora fosse quase
+que totalmente desprovida da infraestrutura necessária aos megaprojetos planeja-
+O RETORNO DA RÚSSIA  45
+dos, a região tinha outras importantes vantagens. Sakhalin estava a uma enorme distância
+de Moscou, mas, ainda assim, fazia parte da Rússia. Além disso, fi cava em mar
+aberto, o que permitia o escoamento direto da produção para os mercados mundiais.
+A Exxon tornou-se operadora de um projeto que incluía também a estatal de petróleo
+russa Rosneft , empresas japonesas e a empresa nacional de petróleo da Índia.
+Dentro da ExxonMobil, havia quem considerasse esse o projeto mais complexo que
+a empresa já realizara até o momento  trabalhar em uma região distante, subdesenvolvida,
+onde os icebergs são um problema crônico, os ventos têm potência de
+furacões durante muitos meses por ano, e as temperaturas podem cair para -40°C
+ou até menos. Na verdade, as condições eram tão adversas que só era possível trabalhar
+cinco meses por ano. No meio do desenvolvimento, à medida que foram
+surgindo novas difi culdades, os engenheiros concluíram que precisavam voltar e redesenhar
+o projeto inteiro. O projeto, cujo escopo inicial fora defi nido no início dos
+anos 1990, levou uma década para produzir o primeiro óleo e uma década e meia
+para atingir a capacidade de produção total  tudo isso por um custo aproximado
+de US$ 7 bilhões.15
+Sakhalin-2, da Shell, também começou no início da década de 1990, enfrentando
+os mesmos desafi os impostos pelo ambiente. Acabaria se revelando o maior
+projeto de petróleo e gás do mundo, não apenas um megaprojeto, mas equivalente
+a cinco megaprojetos tops de linha em escala e complexidade. A Shell enfrentou
+os desafi os adicionais de construir dois dutos quilométricos  na verdade, um gasoduto
+e um oleoduto  que teriam que atravessar mais de mil rios e córregos,
+passando por extensões de terra congeladas no inverno e cobertas de lama no verão.
+Preparar essas instalações para exportar petróleo e gás acabou custando mais de
+US$ 20 bilhões.
+HEARTLAND
+Somente uma empresa ocidental conseguiu conquistar uma posição signifi cativa
+no heartland da indústria do petróleo russa, a Sibéria Ocidental. A Sidanco era
+uma empresa russa de segunda linha que fora adquirida por um grupo de oligarcas
+em um daqueles acordos de empréstimos em troca de ações, em 1995. Carregava
+uma joia: a propriedade parcial (junto com a TNK) do Samotlor, o maior campo
+de petróleo da Sibéria Ocidental. A BP adquiriu 10% da Sidanco por US$ 571 mi-
+46  A BUSCA
+lhões, em 1997. Alguns membros do conselho da BP acreditavam ser uma decisão
+pouco calculada; era difícil sustentar que a Rússia era de fato um Estado de direito.
+Mas o CEO da BP, John Browne, argumentou que era a única maneira óbvia de
+entrar na Sibéria Ocidental, e a Rússia era fundamental para a estratégia global
+da BP. Entretanto, acrescentou, precisamos considerar a decisão como um jogo.
+Podemos perder tudo.16
+Logo fi cou claro que a advertência de Browne tinha ainda mais fundamento do
+que ele previra, pois coisas muito estranhas começaram a acontecer. Sob o pretexto
+de uma recém-aprovada lei de falência russa, subsidiárias da Sidanco começaram a
+desaparecer em uma série de processos de falência em vários tribunais siberianos distantes.
+Ficou aparente que eram falências fabricadas. Os credores demonstravam
+ser altamente adeptos de tirar proveito das provisões contidas na nova lei de falência
+da Rússia para assumir o controle das subsidiárias. Parecia que a Sidanco ia acabar
+esvaziada, e a BP, com seu investimento de US$571 milhões, fi caria a ver navios.
+No devido tempo, fi cou claro que existia um confl ito entre dois grupos de oligarcas
+que haviam participado conjuntamente da aquisição da Sidanco por meio
+do esquema de empréstimos em troca de ações, e que depois tiveram uma amarga
+desavença. O grupo AAR acreditava que sua sócia, a Interros, a induzira a vender
+sua parte por um preço baixíssimo antes do acordo com a BP. E agora o AAR a
+queria de volta. A BP na realidade era só espectadora, mas suas perspectivas de
+proteger sua posição na Rússia não pareciam nada animadoras. Fora da Rússia,
+a situação era bem diferente. O AAR também era proprietário da TNK. A essa
+altura, a TNK dispunha de pouquíssimos recursos fi nanceiros próprios, mas precisava
+de investimentos consideráveis para manter e desenvolver sua participação
+em Samotlor. Por isso, voltou-se para os mercados de crédito ocidentais em busca
+de fi nanciamento para as suas atividades. Foi então que as linhas de crédito ocidentais,
+das quais a TNK dependia, foram fechando, uma atrás da outra. A TNK
+sem dúvida poderia ter predominado dentro da Rússia, mas a BP tinha grande
+infl uência fora do país. Isso era sufi ciente para levar as partes à mesa de negociação:
+os oligarcas dissidentes e sua empresa, a TNK, conseguiram participação
+majoritária na Sidanco. Entretanto, a BP preservou seu papel como a única empresa
+ocidental a ter uma posição signifi cativa no heartland do petróleo russo  a
+Sibéria Ocidental.
+A essa altura, a política na Rússia havia mudado, e mudou também a posição do
+governo.
+O RETORNO DA RÚSSIA  47
+UMA GRANDE POTÊNCIA ECONÔMICA
+Com o fi m da Guerra Fria, Vladimir Putin, então ofi cial da KBG locado em Dresden,
+Alemanha Oriental, voltou para sua cidade natal, São Petersburgo, e foi trabalhar no
+governo municipal. Quando o prefeito reformista para quem trabalhou como vice-
+-prefeito foi derrotado, Putin fi cou sem trabalho. Em seguida, sua casa de campo foi
+destruída por um incêndio. Ele matriculou-se então em um programa de doutorado
+no Instituto de Mineração de São Petersburgo. Os estudos que lá realizou ajudariam
+a moldar sua visão do futuro da Rússia.
+Em 1999, Putin publicou um artigo na revista do instituto sobre recursos naturais
+minerais, argumentando que as reservas de petróleo e gás da Rússia eram
+essenciais para a recuperação econômica, para o ingresso da Rússia na economia
+mundial e para transformar a Rússia em uma grande potência econômica. Dada
+sua importância estratégica fundamental, esses recursos tinham que estar, em última
+análise, sob a égide do Estado, senão diretamente sob seu controle.
+Quando o artigo foi publicado, o próprio Putin já estava em Moscou, ascendendo
+depressa em uma série de cargos  inclusive chefe do FSB, sucessor da KGB, e,
+fi nalmente, primeiro-ministro. No último dia de dezembro de 1999, Boris Yeltsin
+renunciou de forma abrupta, e Vladimir Putin, que apenas três anos antes estava
+desempregado, tornou-se presidente interino da Rússia.
+Em julho de 2000, dois meses depois de sua eleição ofi cial, Putin reuniu-se no
+Kremlin com alguns ricos e poderosos empresários que, na época, todos tinham conhecimento
+de que se tratava de uma oligarquia. Ele estabeleceu claramente as novas
+regras básicas. Eles poderiam manter seus ativos, mas não deveriam tentar exercer
+infl uência política ou, de algum outro modo, controlar as decisões políticas. Dois
+dos oligarcas que não deram ouvidos às regras não demoraram a ser exilados.
+TNK-BP 50/50
+Uma vez concluído o acordo com a TNK, a BP começou a buscar a possibilidade
+de uma fusão de interesses. Dada a recente batalha pela Sidanco, os dois lados estavam
+cautelosos. Depois de intensas negociações, os dois grupos concordaram em
+unir seus interesses no petróleo na Rússia com uma sociedade na qual cada um teria
+50% da nova empresa, a TNK-BP. A BP queria 51%, mas isso jamais seria possível.
+48  A BUSCA
+Como disse John Browne mais tarde: Nunca teríamos conseguido. Por outro lado,
+não poderia fi car com uma participação minoritária de 49%. O resultado foi o acordo
+de 50% para cada lado. O presidente Putin deu sua aprovação, ainda que seguida de
+um conselho. A decisão é de vocês, disse a Browne. Mas acrescentou: Um acordo no
+qual as duas partes têm igual participação não funciona. O acordo formalizou-se. Em
+uma cerimônia na Lancaster House, em Londres, 2003, Browne e Fridman assinaram
+os documentos da nova empresa; Vladimir Putin e o primeiro-ministro britânico Tony
+Blair estavam atrás deles, testemunhando a assinatura do acordo. A nova TNK-BP representava
+o maior investimento estrangeiro direto na Rússia. Ao mesmo tempo, era
+uma empresa russa. A nova combinação modernizou os campos de petróleo e aumentou
+rapidamente a produção. Aumentou também em um terço as reservas totais da BP,
+colocando a empresa à frente da Shell, na posição de segunda maior empresa depois
+da ExxonMobil. Entretanto, passados alguns anos, e concretizando a profecia de Putin,
+surgiu uma acirrada batalha pelo controle e sobre o signifi cado exato de 50/50.
+Por fi m, depois de muita tensão, os dois lados chegaram a um acordo que modifi cou
+a governança, alterando o equilíbrio em favor dos sócios russos e, ao mesmo tempo,
+preservando a posição da BP. Mikhail Fridman tornou-se o novo CEO.17
+YUKOS
+Na época da eleição de Putin, em 2000, Mikhail Khodorkovsky, da Yukos, já estava
+a caminho de se tornar o homem mais rico da Rússia. Tinha a reputação de ser
+um empresário agressivo e cruel; no entanto, no início do novo século ele parecia
+estar se reinventando. Viria a reunir três gerações  barão cruel e amoral, empresário
+modernizador e fi lantropo  em uma só. Levou ao país a tecnologia ocidental,
+transformando a Yukos em uma empresa muito mais efi ciente. Importando o estilo
+ocidental de governança corporativa e levando sua empresa a fi gurar nas bolsas de
+valores ocidentais, ele conseguiu aumentar imensamente o valor da Yukos, multiplicando
+várias vezes sua riqueza. Por meio da Open Russia Foundation, de sua propriedade,
+ele se tornou o maior fi lantropo da Rússia, apoiando organizações cívicas
+e de direitos humanos.
+Seus gastos com política também fi caram famosos, na verdade, quase lendários,
+mais notavelmente o dinheiro gasto para garantir que os deputados da Duma votassem
+como ele queria sobre a legislação fi scal em maio de 2003. Ele parecia seguir
+O RETORNO DA RÚSSIA  49
+uma política externa própria. Negociou diretamente com a China a construção de
+um duto, passando por cima do Kremlin em um assunto de grande importância
+estratégica, e a respeito do qual Putin tinha visões muito diferentes. Avançava depressa
+a caminho da aquisição da Sibneft , uma das grandes empresas petrolíferas da
+Rússia, que provavelmente tornaria a Yukos a maior empresa de petróleo do mundo.
+E estava negociando com a Chevron e a ExxonMobil a venda do controle acionário
+da Yukos. Ao se reunir com o CEO de uma das empresas ocidentais, Putin tinha
+muitas, muitas perguntas a respeito do funcionamento do acordo e de seu signifi -
+cado. Pois este acordo teria transferido o controle de uma parte substancial do mais
+importante ativo estratégico do país, o petróleo, para o estrangeiro, exatamente o
+oposto do que dizia seu artigo de 1999.
+Enquanto se movimentava em todos esses fronts ao mesmo tempo, Khodorkovsky
+deixou bem claro que estava preparado para gastar dinheiro a fi m de transformar
+a Rússia de democracia presidencial em uma democracia parlamentar, com a implicação
+de que pretendia tornar-se primeiro-ministro. A venda de parte da Yukos geraria
+para ele muitos bilhões de dólares que poderiam ser investidos nessa campanha.
+E havia também o que se tornou uma acalorada discussão com Putin em uma reunião
+com industriais, gravada em vídeo. A corrupção está se espalhando pelo país,
+disse Khodorkovsky. Putin, irritado, salientou que ele havia adquirido o controle de
+vastas reservas de petróleo em troca de pouquíssimo dinheiro. A pergunta é: como
+você as conseguiu?, perguntou Putin. E acrescentou: Estou lhe devolvendo a bola.18
+Meses depois, em julho de 2003, um dos sócios de Khodorkovsky nos negócios foi
+preso; em seguida outros também foram. Alguns de seus conselheiros, temendo que
+ele estivesse se tornando cada vez mais irrealista, o advertiram para agir com cautela,
+mas aparentemente ele não lhes deu ouvidos. Em uma visita a Washington, em setembro
+de 2003, afi rmou que acreditava haver uma chance de 40% de ser preso. Mas deu
+a impressão de que não acreditava que as chances fossem tão grandes assim.
+No outono de 2003, Khodorkovsky embarcou no que parecia ser uma campanha,
+com discursos, entrevistas e reuniões públicas em cidades de toda a Sibéria.
+No início da manhã de 23 de outubro, seu avião havia pousado para reabastecer
+em Novosibirsk. Às cinco horas da manhã, agentes do FSB entraram no
+avião e o levaram preso. Na primavera de 2005, depois de um longo julgamento,
+Khodorkovsky foi condenado por fraude fi scal e enviado a um campo de prisioneiros
+distante e isolado, na Sibéria. Em 2011, foi a novo julgamento, dessa vez
+por desfalque, que aumentou ainda mais sua sentença.
+50  A BUSCA
+Quanto à Yukos, nada restou. A empresa foi desmantelada e absorvida pela Rosneft
+, a maior empresa de petróleo da Rússia, com participação majoritária do governo
+russo.
+RECURSOS ESTRATÉGICOS
+Recursos estratégicos ganharam destaque também de outras maneiras. O projeto
+Sakhalin-1, da ExxonMobil, tinha como parceira uma empresa russa, a Rosneft .
+Mas Sakhalin-2, da Shell, não. A Gazprom podia ser a maior empresa de gás do
+mundo, mas não tinha representação alguma em gás natural liquefeito (GNL) e
+nenhuma capacidade de comercializar o produto para a Ásia. Ao longo de muitos
+meses em 2006, o projeto Sakhalin-2 sofreu acusações acerca de violações ambientais
+que implicavam em diversas penalidades, algumas delas bastante severas. No
+fi nal de dezembro de 2006, a Shell e seus parceiros japoneses aceitaram a Gazprom
+como acionista majoritária. Daí em diante, o projeto seguiu seu curso e, em 2009,
+começou a exportar GNL para a Ásia e para outros países, entre eles a Espanha.
+O PETRÓLEO E O FUTURO DA RÚSSIA
+Na segunda década do século XXI, a Rússia estava de volta como produtora de petróleo.
+Sua produção era tão alta quanto fora na época do declínio da União Soviética,
+duas décadas antes, ainda que em termos bastante diferentes. A indústria petrolífera
+estava tecnologicamente integrada ao resto do mundo, e não mais nas mãos de um único
+ministério. Ao contrário, era operada por uma variedade de empresas com muitas
+diferenças em termos de liderança, cultura e abordagens. No cômputo fi nal, a Rússia
+estava de volta como o maior produtor e o segundo maior exportador de petróleo do
+mundo.
+Certa vez, quando a produção de petróleo e as receitas dela proveniente estavam
+a todo vapor, perguntaram a Vladimir Putin se a Rússia era uma superpotência em
+energia. Ele respondeu que não gostava da expressão. Superpotência, disse, era a
+palavra que usávamos durante a Guerra Fria, e agora a Guerra Fria tinha acabado.
+Nunca me referi à Rússia como uma superpotência em energia. Mas temos, de fato,
+possibilidades maiores do que qualquer outro país do mundo. Se reunirmos nosso
+A busca.indd 50 7/11/14 6:01 PM
+O RETORNO DA RÚSSIA  51
+potencial energético em todas as áreas  petróleo, gás e nuclear  nosso país sem
+sombra de dúvida estará na liderança.
+Certamente os recursos energéticos da Rússia  e seus mercados  colocam o
+país em uma posição de preeminência. E, com a nova incerteza em relação ao Oriente
+Médio, ele assume uma importância renovada como fornecedor de energia e em
+termos de segurança energética.
+Petróleo e gás também foram a força motriz de sua economia. Como escreveu
+Putin em seu artigo de 1999, foram, de fato, o motor da recuperação e do crescimento
+da Rússia  e a principal fonte de receita do governo. Preços altos signifi cavam
+ainda mais dinheiro fl uindo para o tesouro da nação. A composição demográfi ca do
+país tornou essa receita ainda mais essencial  era necessário cumprir com o compromisso
+das pensões para uma população que envelhecia.
+Entretanto, a alta dependência do petróleo e do gás estimularam um debate nacional
+sobre o tema e sobre a necessidade de modernização, o que signifi cava, em
+parte, diversifi cação e distanciamento dos hidrocarbonetos. Mas era difícil alcançar
+a modernização sem reformas abrangentes na economia e nas instituições jurídicas e
+governamentais, junto ao estímulo de uma cultura de empreendedorismo. Há quem
+tenha argumentado que os preços do petróleo, criando um colchão de riqueza, facilitaram
+o adiamento das reformas. Qualquer que tenha sido o progresso na modernização,
+o setor de petróleo e gás continuaria sendo a maior fonte de riqueza do país
+ainda durante um bom tempo, assim como uma arena para a tecnologia avançada.
+Mas a própria importância do petróleo e do gás chamou atenção para um tipo
+de risco diferente: será que a Rússia conseguiria manter seu nível de produção ou
+haveria outro grande declínio a caminho? Essa última possibilidade ameaçaria a economia
+do país. Houve quem argumentasse que a Rússia não conseguiria sustentar
+a produção sem realizar grandes mudanças  o aumento de novos investimentos,
+um regime fi scal que os estimulasse, a modernização da tecnologia e, de importância
+fundamental, o desenvolvimento da próxima geração de campos de petróleo e gás.
+Uma das principais metas para a próxima geração era a exploração off shore, principalmente
+nas regiões árticas, no litoral norte da Rússia.
+O desenvolvimento dessas regiões de fronteira seria desafi ador, caro e ainda mais
+complexo do que os projetos Sakhalin. Mais uma vez, havia potencial para uma atuação
+signifi cativa das empresas internacionais. Seriam projetos para os quais parceiros
+ocidentais seriam buscados, especialmente as grandes empresas do ramo, com sua
+capacidade de executar empreitadas dessa escala. Entretanto, a realização desses pro-
+52  A BUSCA
+jetos exigiria confi ança considerável de ambos os lados. Pois seriam relacionamentos
+de longuíssimo prazo; o tempo de desenvolvimento seria medido não em anos, mas
+em décadas, e seu impacto total provavelmente se faria sentir mais para meados do
+século XXI, e não no início. No entanto, tudo isso era mera especulação.
+Para as empresas ocidentais  exceto no caso dos projetos de longo prazo em
+lugares como o Ártico  não havia grandes oportunidades além das que já tinham
+surgido na década de 1990. Como se revelou, as expectativas iniciais sobre a Rússia
+foram mal dimensionadas e não corresponderam à realidade.
+No que diz respeito ao petróleo e gás, entretanto, havia mais oportunidades na ex-
+-União Soviética do que apenas na Federação Russa. Muito mais. E foi para o resto
+da região que a atenção havia se voltado no fi nal da década de 1980 e início da de
+1990, com a desintegração do sistema soviético.
