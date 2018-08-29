@@ -55,7 +55,7 @@ de acurácia, precisão, revocação e F1-Score. Como não há nenhuma preferên
 entre minimizar os falsos positivos ou falsos negativos usamos o F1-Score como
 métrica principal para as tomadas de decisão.
 
-Os seguintes arquivos compõe este projeto:
+## Os seguintes arquivos compõe este projeto:
 
 Relatório Final.pdf - Relatório final do projeto
 Projeto Final.ipynb - Scripts detalhado do projeto em usando Jupyter Notebook.
@@ -63,7 +63,7 @@ PRH - Pasta contendo 290 arquivos com os projetos final do Programa de Recursos 
 corpus_unificado - Pasta onde serão gravados os arquivos unificados.
 corpus_preprocessado - Pasta onde serão gravados e posteriormente lido os arquivos preprocessado
 
-Outros arquivos de apoio:
+## Outros arquivos de apoio:
 
 Extração do PRH.ipynb - Script para extrair o nome dos arquivos da pasta PRH e os primeiros 300 caracteres do texto
 lista_PRH.csv - Planilha gerada pelo script Extração do PRH.ipynb
@@ -77,7 +77,7 @@ Projeto Final - Escolha dos parâmetros - v2.ipynb - Script com a 2° rodada de 
 A_Busca.pdf - Arquivo com introdução e prólogo do livro "A Busca" usado como teste 
 A_Busca.txt - Arquivo com introdução e prólogo do livro "A Busca" usado como teste
 
-Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 
 numpy
 datetime
