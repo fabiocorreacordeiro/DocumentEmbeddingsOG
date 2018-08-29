@@ -79,19 +79,19 @@ A_Busca.txt - Arquivo com introdução e prólogo do livro "A Busca" usado como 
 
 ## Bibliotecas utilizadas:
 
-numpy
-datetime
-pandas
-collections
-os
-pathlib
-random
-re
-nltk
-string
-unicodedata
-gensim
-sklearn
-bokeh
-wordcloud
-matplotlib
+- numpy
+- datetime
+- pandas
+- collections
+- os
+- pathlib
+- random
+- re
+- nltk
+- string
+- unicodedata
+- gensim
+- sklearn
+- bokeh
+- wordcloud
+- matplotlib
